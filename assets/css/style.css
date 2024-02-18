@@ -35,3 +35,9 @@ body {
   width: 30px;
   height: 30px;
 }
+
+@media screen and (max-width: 767px){
+  .link-container {
+  width: 30vh;
+  }
+}
